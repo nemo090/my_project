@@ -28,5 +28,8 @@
 
 ## 🚀 使用方式
 
-[🔗 點我前往 GitHub 說明文件](https://github.com/nemo090/my_project/blob/main/Backtest_model_example.ipynb)
+- [GitHub 說明文件](https://github.com/nemo090/my_project/blob/main/Backtest_model_example.ipynb)
+- [Medium 說明文章 1](https://medium.com/@nemo_67036/%E6%88%91%E5%AF%AB%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%87%8F%E5%8C%96%E5%9B%9E%E6%B8%AC%E6%9E%B6%E6%A7%8B-%E4%B8%80-3bd2c214d940)
+- [Medium 說明文章 2](https://medium.com/@nemo_67036/%E6%88%91%E5%AF%AB%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%87%8F%E5%8C%96%E5%9B%9E%E6%B8%AC%E6%9E%B6%E6%A7%8B-%E4%BA%8C-%E5%BE%9E%E6%A8%A1%E7%B5%84%E8%A8%AD%E8%A8%88%E5%88%B0%E5%85%A8%E6%B5%81%E7%A8%8B%E8%87%AA%E5%8B%95%E5%8C%96-72e94d59a644)
+- [Medium 說明文章 3](https://medium.com/@nemo_67036/%E6%88%91%E5%AF%AB%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%87%8F%E5%8C%96%E5%9B%9E%E6%B8%AC%E6%9E%B6%E6%A7%8B-%E4%B8%89-%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D-0050-%E7%AD%96%E7%95%A5%E6%AA%A2%E8%A6%96%E5%9B%9E%E6%B8%AC%E7%B8%BE%E6%95%88-185416b33227)
 
