@@ -28,5 +28,5 @@
 
 ## 🚀 使用方式
 
-[🔗 點我前往 GitHub Repo](https://github.com/nemo090/my_project/Backtest_model.ipynb)
+[🔗 點我前往 GitHub 說明文件](https://github.com/nemo090/my_project/blob/main/Backtest_model_example.ipynb)
 
